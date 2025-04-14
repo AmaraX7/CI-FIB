@@ -1,7 +1,7 @@
 # CI-FIB
 # Prácticas de Interfaz de Computadores (CI) - FIB
 
-Repositorio de soluciones para las prácticas de laboratorio de **Interfaz de Computadores (CI)**. 
+Repositorio de soluciones para las prácticas de laboratorio de **Interfaz de Computadores (CI)**, todas con nota +8/10. 
 ## Contenido
 
 Cada práctica contiene lo siguiente:
